@@ -1,0 +1,7 @@
+D:\PRN211\Lab2\Lab2\obj\Release\net5.0-windows\Lab2.csproj.AssemblyReference.cache
+D:\PRN211\Lab2\Lab2\obj\Release\net5.0-windows\Lab2.Form.resources
+D:\PRN211\Lab2\Lab2\obj\Release\net5.0-windows\Lab2.csproj.GenerateResource.cache
+D:\PRN211\Lab2\Lab2\obj\Release\net5.0-windows\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Lab2\Lab2\obj\Release\net5.0-windows\Lab2.AssemblyInfoInputs.cache
+D:\PRN211\Lab2\Lab2\obj\Release\net5.0-windows\Lab2.AssemblyInfo.cs
+D:\PRN211\Lab2\Lab2\obj\Release\net5.0-windows\Lab2.csproj.CoreCompileInputs.cache
